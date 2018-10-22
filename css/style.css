@@ -71,3 +71,49 @@ body{
     border: solid black;
     background-color:burlywood; 
 }
+
+@media only screen and (min-width: 768px) {
+
+    /* section {
+    overflow:hidden;
+}  */
+
+#a{
+    height: 100px;
+    width: 960px;
+}
+
+#b{
+    height: 600px;
+    width: 200px;
+}
+
+#c{
+    height: 200px;
+    width: 380px;
+}
+#d{
+    height: 200px;
+    width: 380px;
+}
+#e{
+    height: 250px;
+    width: 190px;
+}
+#f{
+    height: 250px;
+    width: 190px;
+}
+#g{
+    height: 250px;
+    width: 190px;
+}
+#h{
+    height: 250px;
+    width: 190px;
+}
+#i{
+    height: 150px;
+    width: 760px;
+}
+}
